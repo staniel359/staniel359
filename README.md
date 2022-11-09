@@ -3,9 +3,10 @@
 🔭 I’m currently working on:
 - <img src="https://muffon.netlify.app/icons/favicon-16x16.png" height="16"> [**muffon**](https://github.com/staniel359/muffon)
 - [**muffon-api**](https://github.com/staniel359/muffon-api)
+- [**muffon-website**](https://github.com/staniel359/muffon-website)
 
-🤔 I’m looking for help with ...
-- [muffon](https://github.com/staniel359/muffon) translations
+🤔 I’m looking for help with:
+- Translations (of projects above)
 - [librespot-python](https://github.com/kokarare1212/librespot-python) reverse engineering
 
 📫 How to reach me:
