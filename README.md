@@ -6,7 +6,7 @@
 - [**muffon-website**](https://github.com/staniel359/muffon-website)
 
 🤔 I’m looking for help with:
-- Translations (of projects above)
+- Localization (of projects above)
 - [librespot-python](https://github.com/kokarare1212/librespot-python) reverse engineering
 
 📫 How to reach me:
